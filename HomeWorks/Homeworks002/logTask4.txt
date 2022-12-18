@@ -1,0 +1,6 @@
+
+20221218_180825 - the user calculated: 2*345 = 690
+20221218_180844 - the user calculated: 2-4567 = -4565
+20221218_180931 - the user calculated: 45/7 = 6
+20221218_180959 - the user calculated: 45*12 = 540
+20221218_181017 - the user calculated: 6756+123334 = 130090
