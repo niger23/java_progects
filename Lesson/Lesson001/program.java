@@ -1,4 +1,4 @@
-package Lesson;
+package Lesson.Lesson001;
 import java.io.FileWriter;
 import java.io.IOException;
 public class program {
