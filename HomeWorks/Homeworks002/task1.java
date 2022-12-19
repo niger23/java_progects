@@ -31,7 +31,7 @@ public class task1 {
     }
 
 
-    public static Map loadData() throws Exception {
+    public static Map <String, String> loadData() throws Exception {
         try {
             Map<String, String> map = new HashMap<String, String>();
             BufferedReader in = new BufferedReader(new FileReader("HomeWorks/Homeworks002/task1.json"));
