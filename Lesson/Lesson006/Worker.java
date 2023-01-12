@@ -1,4 +1,4 @@
-package Lesson;
+package Lesson.Lesson006;
 
 public class Worker {
     int id;
