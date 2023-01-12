@@ -1,7 +1,9 @@
-package Lesson;
+package Lesson.Lesson006;
 
 import java.util.Arrays;
 import java.util.HashSet;
+
+import Lesson.Worker;
 
 public class lec1 {
     public static void main(String[] args) {
