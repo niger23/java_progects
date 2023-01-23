@@ -30,6 +30,7 @@ public class Magician {
         this(String.format("Hero_Magician #%d", ++Magician.number),
                 Magician.r.nextInt(100),
                 Magician.r.nextInt(50));
+        System.out.println(maxMana);
     }
 
     public int Attack() {

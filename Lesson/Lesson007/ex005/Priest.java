@@ -32,6 +32,7 @@ public class Priest {
         this(String.format(HERO_PRIEST_D, ++Priest.number),
         Priest.r.nextInt(100),
         Priest.r.nextInt(50));
+        System.out.println(maxElixir);
     }
 
     public int Attack() {
