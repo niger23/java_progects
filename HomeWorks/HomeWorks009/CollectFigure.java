@@ -11,7 +11,6 @@ private List<Figure> figures;
         for (Figure figure : newList) {
             figures.add(figure);
         }
-        // this.figures = new ArrayList<Figure>(newList);
     }
     public void figuresInfo() {
         
@@ -34,9 +33,6 @@ private List<Figure> figures;
     public void returnFigureCollect(Figure item, int num) {
         figures.remove(num);
         figures.add(num, item);
-    }
-    public List<Figure> getFigures() {
-        return this.figures;
     }
     public void sort () {
         // Collections.sort(this.figures);
