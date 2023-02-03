@@ -1,3 +1,5 @@
+package Lesson.Lesson010.Ex005;
+
 public class Ex001_Pair {
     public static void main(String[] args) {
 
