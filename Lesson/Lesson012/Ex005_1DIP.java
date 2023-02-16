@@ -1,4 +1,4 @@
-
+package Lesson.Lesson012;
 public class Ex005_1DIP {
     public static void main(String[] args) {
         Book book = new Book();

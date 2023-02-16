@@ -1,4 +1,4 @@
-
+package Lesson.Lesson012;
 // Open-closed principle
 // Принцип открытости/закрытости
 // Можно улучшать, но нельзя изменять
