@@ -1,4 +1,4 @@
-from Polygon import Polygon
+from Core.Models.Polygon import Polygon
 
 
 class Triangle(Polygon):

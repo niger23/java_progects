@@ -1,9 +1,9 @@
-from FigureBook import FigureBook
-from ConsoleView import ConsoleView
-from Circle import Circle
-from Rectangle import Rectangle
-from Square import Square
-from Triangle import Triangle
+from Core.Infrastructure.FigureBook import FigureBook
+from UI.ConsoleView import ConsoleView
+from Core.Models.Circle import Circle
+from Core.Models.Rectangle import Rectangle
+from Core.Models.Square import Square
+from Core.Models.Triangle import Triangle
 
 class Presenter:
     def __init__(self, view):

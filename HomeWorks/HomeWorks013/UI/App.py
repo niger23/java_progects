@@ -1,7 +1,7 @@
 import os
 
-from Presenter import Presenter
-from ConsoleView import ConsoleView
+from Core.Presenter import Presenter
+from UI.ConsoleView import ConsoleView
 
 class App:
     def clear_console(self):

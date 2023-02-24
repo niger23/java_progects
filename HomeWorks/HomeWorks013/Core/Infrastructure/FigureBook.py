@@ -1,8 +1,8 @@
-from Figure import Figure
-from Circle import Circle
-from Rectangle import Rectangle
-from Square import Square
-from Triangle import Triangle
+from Core.Models.Figure import Figure
+from Core.Models.Circle import Circle
+from Core.Models.Rectangle import Rectangle
+from Core.Models.Square import Square
+from Core.Models.Triangle import Triangle
 
 class FigureBook:
     def __init__(self):

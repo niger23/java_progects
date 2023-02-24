@@ -1,5 +1,5 @@
 from abc import ABC
-from Figure import Figure
+from Core.Models.Figure import Figure
 
 
 class Polygon(Figure, ABC):

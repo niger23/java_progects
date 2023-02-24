@@ -1,4 +1,4 @@
-from Figure import Figure
+from Core.Models.Figure import Figure
 from math import pi
 
 
